@@ -6,4 +6,5 @@
 ### Explore the Portfolio
 
 [read my semester statement](about.md) 
+
 [learn more about my next steps](forward.md)
