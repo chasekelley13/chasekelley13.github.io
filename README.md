@@ -1,4 +1,4 @@
-# Chase's Digital Portfolio
+# A Semester of Multimodal Work
 
 About Me
 
