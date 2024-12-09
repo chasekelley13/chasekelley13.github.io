@@ -1,6 +1,6 @@
 # Chase's Digital Portfolio
 
-###About Me
+About Me
 
 
 
