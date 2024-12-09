@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: A Semester of Multimodal Work
-description: Chase's Digital Portfolio
+description: Digital Portfolio of Chase Kelley
