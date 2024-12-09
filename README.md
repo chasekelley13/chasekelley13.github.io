@@ -8,3 +8,5 @@ I am a senior at the University of Pennsylvania majoring in Political Science an
 [read my semester statement](about.md) 
 
 [learn more about my next steps](forward.md)
+
+[view some of my work from the semester here](assets.md)
