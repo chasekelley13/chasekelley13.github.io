@@ -3,8 +3,7 @@
 ### About Me
 
 
-## Explore the Portfolio
+### Explore the Portfolio
 
-[click here](about.md) 
-
-[or click here for](forward.md)
+[read my semester statement](about.md) 
+[learn more about my next steps](forward.md)
