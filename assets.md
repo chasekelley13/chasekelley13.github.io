@@ -1,3 +1,3 @@
-inserts photos here
+I have linked photos from throughout the semester below, feel free to take a look!
 
-[Image One](/papermaking1.jpeg)
+[papermakingworkshop](/papermaking1.jpeg)
