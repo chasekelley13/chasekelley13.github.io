@@ -1,4 +1,4 @@
-This course has inspired me to further my understanding of digital landscapes, skills, and humanities. Following the course, I plan to
+This course has inspired me to further my understanding of digital landscapes, skills, and humanities. Following the course, I plan to...
 
 Develop a better understanding of coding, Python specifically. My previous experience with the coding language was to identify users who had unfollowed me on Instagram. I created a line of code that could compare two lists efficiently, especially useful when comparing two large data sets. However, this course has exposed me to the sheer complexity and capacity of code, and I want to explore the language to heighten my research capabilities. 
 
