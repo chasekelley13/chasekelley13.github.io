@@ -9,4 +9,4 @@ I am a senior at the University of Pennsylvania majoring in Political Science an
 
 [learn more about my next steps](forward.md)
 
-[view some of my work from the semester here](assets.md)
+[view some photos from the semester here](assets.md)
